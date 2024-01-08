@@ -4,4 +4,4 @@ The goal of this project was to learn how fantasy sports platforms such as fanta
 
 These code files are in MATLAB, so please download them to view the results! <br>
 
-Please compare the results with my provided screenshots. 
+Please compare my cluster results with my provided tier screenshots from FantasyPros. 
